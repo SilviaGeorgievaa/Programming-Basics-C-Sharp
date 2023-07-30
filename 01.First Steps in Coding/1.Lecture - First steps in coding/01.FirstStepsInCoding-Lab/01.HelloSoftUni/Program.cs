@@ -7,10 +7,6 @@ namespace _01.HelloSoftUni
         static void Main(string[] args)
         {
             Console.WriteLine("Hello SoftUni");
-
-
-
         }
     }
 }
-
