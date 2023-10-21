@@ -29,7 +29,6 @@ namespace _04.TransportPrice
                 double train = km * 0.06;
                 Console.WriteLine($"{train:f2}");
             }
-
         }
     }
 }

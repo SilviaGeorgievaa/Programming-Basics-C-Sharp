@@ -26,7 +26,6 @@ namespace _09.FruitVeg
                 default:
                     Console.WriteLine("unknown");
                     break;
-                
             }
         }
     }

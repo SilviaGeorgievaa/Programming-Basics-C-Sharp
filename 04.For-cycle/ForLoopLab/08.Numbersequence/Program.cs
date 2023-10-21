@@ -28,7 +28,6 @@ namespace _08.Numbersequence
             Console.WriteLine($"Max number: {maxNum}");
 
             Console.WriteLine($"Min number: {minNum}");
-
         }
     }
 }

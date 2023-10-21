@@ -25,25 +25,6 @@ namespace _001.Pyramid
                 row++;
                 Console.WriteLine();
             }
-
-
-
-
-
-            //int row = 1;
-            //int countOfWrittNum = 0;
-            //for (int i = 1 ; i <= n; i++)
-            //{
-            //    Console.Write($"{i} ");
-
-            //    countOfWrittNum++;
-            //    if (countOfWrittNum == row)
-            //    {
-            //        Console.WriteLine();
-            //        countOfWrittNum = 0;
-            //        row++;
-            //    }
-            //}
         }
     }
 }

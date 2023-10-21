@@ -160,7 +160,6 @@ namespace _11.FruitShop
                double finalPrice = price * quantity;
                Console.WriteLine($"{finalPrice:f2}");
             }
-           
         }
     }
 }

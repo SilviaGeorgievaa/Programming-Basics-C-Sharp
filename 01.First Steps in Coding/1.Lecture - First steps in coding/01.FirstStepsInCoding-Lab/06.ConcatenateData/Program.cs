@@ -12,9 +12,6 @@ namespace _06.ConcatenateData
             string town = Console.ReadLine();
 
             Console.WriteLine($"You are {firstName} {lastName}, a {age}-years old person from {town}.");
-
-
-
         }
     }
 }

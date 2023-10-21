@@ -32,9 +32,6 @@ namespace _04._Sum_of_Two_Numbers
             {
                 Console.WriteLine($"{conbinations} combinations - neither equals {magicNumber}");
             }
-            
-            
-
         }
     }
 }

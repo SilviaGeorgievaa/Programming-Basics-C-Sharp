@@ -21,7 +21,6 @@ namespace _05.Balance
                 Console.WriteLine($"Increase: {currentIncome:f2}");
             }
             Console.WriteLine($"Total: {balance:f2}");
-            
         }
     }
 }

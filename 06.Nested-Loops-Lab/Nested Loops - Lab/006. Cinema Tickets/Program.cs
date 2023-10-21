@@ -50,7 +50,6 @@ namespace _006._Cinema_Tickets
             Console.WriteLine($"{studentPer:f2}% student tickets.");
             Console.WriteLine($"{standartPer:f2}% standard tickets.");
             Console.WriteLine($"{kidper:f2}% kids tickets.");
-
         }
     }
 }

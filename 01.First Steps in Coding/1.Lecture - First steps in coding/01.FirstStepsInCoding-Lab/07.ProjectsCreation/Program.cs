@@ -11,8 +11,6 @@ namespace _07.ProjectsCreation
             int result = numberOfProjects * 3;
 
             Console.WriteLine($"The architect {name} will need {result} hours to complete {numberOfProjects} project/s.");
-
-
         }
     }
 }

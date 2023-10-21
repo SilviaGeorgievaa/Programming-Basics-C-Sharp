@@ -13,10 +13,6 @@ namespace _004.TrainAndTrainers
             int allprezcount = 0;
             while (presentationName != "Finish")
             {
-                
-                //for (int i = 1; i <= n; i++)
-                //{
-                    //int currentNum = n;
                     int currentPresentcount = 0;
                     double currentSumGrades = 0;
                     double grade = double.Parse(Console.ReadLine());
@@ -36,9 +32,6 @@ namespace _004.TrainAndTrainers
                     Console.WriteLine($"{presentationName} - {currentPrezAverage:f2}.");
 
                     presentationName = Console.ReadLine();
-
-                //}
-                
             }
 
             double average = sumGrades / allprezcount;

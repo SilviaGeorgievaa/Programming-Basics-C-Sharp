@@ -24,7 +24,6 @@ namespace _05._SpecialNumbers
                             {
                                 Console.Write($"{i1}{i2}{i3}{i4} ");
                             }
-                            
                         }
                     }
                 }

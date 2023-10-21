@@ -22,9 +22,7 @@ namespace _05.Travelling
                 Console.WriteLine($"Going to {input}!");
 
                 input = Console.ReadLine();
-                
             }
-            
         }
     }
 }

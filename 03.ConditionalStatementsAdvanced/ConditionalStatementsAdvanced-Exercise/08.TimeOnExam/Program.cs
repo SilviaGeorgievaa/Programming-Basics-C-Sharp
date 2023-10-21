@@ -65,4 +65,3 @@ namespace _08.TimeOnExam
         }
      }
 }
-

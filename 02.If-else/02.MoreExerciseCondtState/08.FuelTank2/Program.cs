@@ -90,22 +90,6 @@ namespace _08.FuelTank2
                     {
                         Console.WriteLine($"{withoutDiscount:f2} lv.");
                     }
-
-                    // Ot lyubimiq:
-                    //if (litres < 20)
-                    //{
-                    //    Console.WriteLine($"{withoutDiscount:f2} lv.");
-                    //}
-                    //else if (litres <= 25)
-                    //{
-                    //    double totalPrice = withoutDiscount - (withoutDiscount * 0.08);
-                    //    Console.WriteLine($"{totalPrice:f2} lv.");
-                    //}
-                    //else
-                    //{
-                    //    double totalPrice = withoutDiscount - (withoutDiscount * 0.1);
-                    //    Console.WriteLine($"{totalPrice:f2} lv.");
-                    //}
                 }
             }
             if (fuel == "gas")

@@ -12,7 +12,6 @@ namespace _03._RectangleArea
             int area = sideA * sideB;
 
             Console.WriteLine(area);
-
         }
     }
 }

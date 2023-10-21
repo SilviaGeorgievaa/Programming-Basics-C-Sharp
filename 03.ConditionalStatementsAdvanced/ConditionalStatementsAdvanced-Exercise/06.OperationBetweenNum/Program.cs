@@ -47,13 +47,6 @@ namespace _06.OperationBetweenNum
                 {
                     Console.WriteLine($"{num1} {operation} {num2} = {result} - odd");
                 }
-
-
-
-
-
-
-
             }
         }
     }

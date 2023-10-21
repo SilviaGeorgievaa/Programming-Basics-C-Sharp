@@ -32,9 +32,6 @@ namespace _06.Cake
             {
                 Console.WriteLine($"No more cake left! You need {Math.Abs(cakeVolume)} pieces more.");
             }
-           
-
-
         }
     }
 }

@@ -31,7 +31,6 @@ namespace _02._EqualSumsEvenOddPosition
                 {
                     Console.Write($"{i} ");
                 }
-                
             }
         }
     }

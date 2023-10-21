@@ -11,7 +11,6 @@ namespace _04.InchestoCentimeters
             double centimeters = inches * 2.54;
 
             Console.WriteLine(centimeters);
-
         }
     }
 }

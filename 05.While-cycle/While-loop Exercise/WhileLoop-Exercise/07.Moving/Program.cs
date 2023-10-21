@@ -34,7 +34,6 @@ namespace _07.Moving
             {
                 Console.WriteLine($"No more free space! You need {Math.Abs(obem)} Cubic meters more."); 
             }
-            
         }
     }
 }

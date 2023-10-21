@@ -9,7 +9,6 @@ namespace _05.GreetingbyName
             string name = Console.ReadLine();
 
             Console.WriteLine($"Hello, {name}!");
-
         }
     }
 }

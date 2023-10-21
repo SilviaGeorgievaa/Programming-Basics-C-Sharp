@@ -15,7 +15,6 @@ namespace _09.YardGreening
 
             Console.WriteLine($"The final price is: {result} lv.");
             Console.WriteLine($"The discount is: {discount} lv.");
-
         }
     }
 }

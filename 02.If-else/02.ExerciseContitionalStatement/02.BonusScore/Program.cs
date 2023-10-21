@@ -34,7 +34,6 @@ namespace _02.BonusScore
             //print
             Console.WriteLine(bonus);
             Console.WriteLine(points + bonus);
-
         }
     }
 }

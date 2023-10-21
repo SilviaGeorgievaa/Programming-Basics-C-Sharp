@@ -15,8 +15,6 @@ namespace _09.WeatherForecast
             {
                 Console.WriteLine("It's cold outside!");
             }
-
-            
         }
     }
 }

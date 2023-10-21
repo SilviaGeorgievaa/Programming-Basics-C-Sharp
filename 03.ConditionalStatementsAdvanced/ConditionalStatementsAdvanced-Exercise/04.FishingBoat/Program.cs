@@ -17,7 +17,7 @@ namespace _04.FishingBoat
                 {
                     price = 3000 * 0.9;
                 }
-                else if (fishers > 7 && fishers <= 11)
+                else if (fishers >= 7 && fishers <= 11)
                 {
                     price = 3000 * 0.85;
                 }
@@ -32,7 +32,7 @@ namespace _04.FishingBoat
                 {
                     price = 4200 * 0.9;
                 }
-                else if (fishers > 7 && fishers <= 11)
+                else if (fishers >= 7 && fishers <= 11)
                 {
                     price = 4200 * 0.85;
                 }
@@ -48,7 +48,7 @@ namespace _04.FishingBoat
                 {
                     price = 2600 * 0.9;
                 }
-                else if (fishers > 7 && fishers <= 11)
+                else if (fishers >= 7 && fishers <= 11)
                 {
                     price = 2600 * 0.85;
                 }
